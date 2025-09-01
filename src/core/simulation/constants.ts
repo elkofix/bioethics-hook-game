@@ -1,0 +1,5 @@
+export const CARRYING_CAPACITY = 80;
+export const RESOURCE_REGENERATION_RATE = 0.25;
+export const NATURAL_LIFESPAN_END = 80;
+export const MAX_LIFESPAN = 18;
+export const ABUNDANCE_LIFESPAN_BONUS = 40; 
